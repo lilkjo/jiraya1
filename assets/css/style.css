@@ -234,7 +234,7 @@ article.active {
 .h5 {
   color: var(--white-2);
   text-transform: capitalize;
-  text-align: right;
+  text-align: center;
 }
 .h2 {
   color: var(--white-2);
